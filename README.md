@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-this is a group chat application
-=======
+
 # Chatter
 
 ## Description
@@ -52,4 +50,3 @@ Contributions to the Chatter App are welcome! If you would like to contribute, p
 5. Submit a pull request, explaining the changes you've made and their purpose.
 
 Thank you for considering the Chatter App!
->>>>>>> 1717a1c91ea5c31460764846f302e5cf09ae62e2
