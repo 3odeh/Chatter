@@ -6,15 +6,15 @@ Chatter is a versatile Flutter-based project that enables users to engage in gro
 
 
 ## Features
-- User Authentication: Users can register with name, email, and password, and subsequently log in using their email and password credentials.
+- **User Authentication:** Users can register with name, email, and password, and subsequently log in using their email and password credentials.
 
-- Group: Users have the ability to view the groups they have joined, search for and join new groups, actively participate in group conversations, access detailed information about each group, and view the list of group members.
+- **Group:** Users have the ability to view the groups they have joined, search for and join new groups, actively participate in group conversations, access detailed information about each group, and view the list of group members.
 
-- Cross-platform Support: The Chatter project is compatible with web, Android, and iOS platforms, ensuring users can access and utilize the application across different devices and operating systems.
+- **Cross-platform Support:** The Chatter project is compatible with web, Android, and iOS platforms, ensuring users can access and utilize the application across different devices and operating systems.
 
-- Firebase Integration: Firebase is seamlessly integrated into the project to handle user authentication securely and provide Firebase Firestore as the database solution for storing and retrieving data efficiently.
+- **Firebase Integration:** Firebase is seamlessly integrated into the project to handle user authentication securely and provide Firebase Firestore as the database solution for storing and retrieving data efficiently.
 
-- User-Friendly Interface: The Chatter app boasts an intuitive and user-friendly design, enabling smooth navigation and optimizing the overall user experience with streamlined workflows.
+- **User-Friendly Interface:** The Chatter app boasts an intuitive and user-friendly design, enabling smooth navigation and optimizing the overall user experience with streamlined workflows.
 
 
 ## Screenshots
